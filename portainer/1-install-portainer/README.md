@@ -62,4 +62,4 @@ You will need to enter the following as outlined in the attached image:
 2. Set Portainer up for our administrator
 3. Reviewed the UI and what containers were deployed
 4. Deployed a new container using the UI (nginx)
-5. Verified nginx was 
+5. Verify Nginx is working
