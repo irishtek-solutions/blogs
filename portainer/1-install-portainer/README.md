@@ -54,6 +54,8 @@ You will need to enter the following as outlined in the attached image:
 
 10. Once the state is `Running`, open up a new tab in your browser. Go to `http:localhost:8080` . We should now see nginx is running.
 
+![Nginx](./images/nginx.png)
+
 ## What we learned
 
 1. We learned to deploy Portainer using Docker
