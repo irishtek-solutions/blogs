@@ -6,7 +6,7 @@
 [How to install Portainer and deploy a new container](#How-to-install-Portainer-and-deploy-a-new-container) \
 [What we learned](#What-we-learned)
 
-## Watch the video instead
+## CLICK - Watch the video instead 
 
 [![IMAGE ALT TEXT](./images/portainer.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
