@@ -10,7 +10,7 @@
 1. In this directory, run `docker-compose -f portainer.yaml up`
 2. Go to your browser (Chrome, Edge, Safari etc) and type `https://localhost:9443` in the browser
 
-Note: You may have to access the self signed certificate. 
+> **_NOTE:_**  You may have to access the self signed certificate. 
 
 3. Once you accept you should see the following page
 
@@ -28,28 +28,28 @@ Note: You may have to access the self signed certificate.
 
 8. Lets setup a new container using the UI.
 
-Note: you could also run it from the command line or docker compose. As an example you could run `docker run --name docker-nginx -p 8080:8080 nginx`.
+> **_NOTE:_**  you could also run it from the command line or docker compose. As an example you could run `docker run --name docker-nginx -p 8080:8080 nginx`.
 
 
 You will need to enter the following as outlined in the attached image also:
 
-- Name: docker-nginx
-- Image: nginx
-- Port mappings: 8080 to 80
+- `Name`: docker-nginx
+- `Image`: nginx
+- `Port mappings`: 8080 to 80
 
 
-![Container list](./images/add-container)
+![Container list](./images/add-container.png)
 
 9. Once you are happy, select `Deploy the Container`. This will run the new container with the configuration options we have specified.
 
-![Container list](./images/new-container)
+![Container list](./images/new-container.png)
 
 10. Once the state is `Running`, open up a new tab in your browser. Go to `http:localhost:8080` . We should now see nginx is running
 
 ## What we learned
 
 1. We learned to deploy Portainer using docker
-2. Set Portainer up for our Admin's
+2. Set Portainer up for our Admin
 3. Reviewed the UI and what containers were deployed
 4. Deployed a new container using the UI (nginx)
 5. Verified nginx was 
