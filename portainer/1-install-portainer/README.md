@@ -8,7 +8,7 @@
 
 ## Watch the video instead
 
-[![IMAGE ALT TEXT](./images/portainer)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](./images/portainer.png)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 ## Pre-requisites
 
