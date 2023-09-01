@@ -48,7 +48,7 @@ You will need to enter the following as outlined in the attached image:
 
 ![Container list](./images/add-container.png)
 
-1. Once you are happy, select `Deploy the Container`. This will run the new container with the configuration options we have specified.
+9. Once you are happy, select `Deploy the Container`. This will run the new container with the configuration options we have specified.
 
 ![Container list](./images/new-container.png)
 
