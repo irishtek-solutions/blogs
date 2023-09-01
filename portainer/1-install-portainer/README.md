@@ -14,17 +14,17 @@ Note: You may have to access the self signed certificate.
 
 3. Once you accept you should see the following page
 
-[Setting up the admin page](../images/admin-setup.png)
+![Setting up the admin page](./images/admin-setup.png)
 
 4. Next, specify and confirm your password. Make sure it's at least 12 characters long
 5. You should then be greated by the following page, select `Get Started`
 
-[Getting started](../images/get-started-select.png)
+![Getting started](./images/get-started-select.png)
 
 6. From the home page, you can select which environment you want to use, and on the left hand side you can select and inspect different components such as containers, images, networks, volumes, events
 7. Select `Containers` from the left hand side menu. Right now we see one. Like below:
 
-[Container list](../images/container-list.png)
+![Container list](./images/container-list.png)
 
 8. Lets setup a new container using the UI.
 
@@ -38,15 +38,18 @@ You will need to enter the following as outlined in the attached image also:
 - Port mappings: 8080 to 80
 
 
-[Container list](../images/add-container)
+![Container list](./images/add-container)
 
 9. Once you are happy, select `Deploy the Container`. This will run the new container with the configuration options we have specified.
 
-[Container list](../images/new-container)
+![Container list](./images/new-container)
 
 10. Once the state is `Running`, open up a new tab in your browser. Go to `http:localhost:8080` . We should now see nginx is running
 
 ## What we learned
 
 1. We learned to deploy Portainer using docker
-2. W
+2. Set Portainer up for our Admin's
+3. Reviewed the UI and what containers were deployed
+4. Deployed a new container using the UI (nginx)
+5. Verified nginx was 
