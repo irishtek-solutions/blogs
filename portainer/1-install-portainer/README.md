@@ -1,5 +1,15 @@
 # Portainer
 
+
+[Watch the video instead](#Watch-the-video-instead)
+[Pre requisites](#Pre-requisites)
+[How to install Portainer and deploy a new container](#How-to-install-Portainer-and-deploy-a-new-container)
+[What we learned](#What-we-learned)
+
+## Watch the video instead
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+
 ## Pre requisites
 
 1. Docker and Docker compose is installed
