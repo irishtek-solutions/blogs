@@ -1,10 +1,10 @@
-# Portainer
+# Getting started with Portainer
 
 
-[Watch the video instead](#Watch-the-video-instead)
-[Pre requisites](#Pre-requisites)
-[How to install Portainer and deploy a new container](#How-to-install-Portainer-and-deploy-a-new-container)
-[What we learned](#What-we-learned)
+[Watch the video instead](#Watch-the-video-instead) \
+[Pre requisites](#Pre-requisites) \
+[How to install Portainer and deploy a new container](#How-to-install-Portainer-and-deploy-a-new-container) \
+[What we learned](#What-we-learned) \
 
 ## Watch the video instead
 
