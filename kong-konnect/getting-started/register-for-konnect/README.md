@@ -1,6 +1,6 @@
 # How to Register for Konnect
 
-[Links to register and pricing](#Links-to-register-and-pricing)
+[Links to register and pricing](#Links-to-register-and-pricing) \
 [Watch the video instead](#Watch-the-video-instead)
 
 ## Links to register and pricing
