@@ -5,8 +5,8 @@
 
 ## Links to register and pricing
 
-[Register for Konnect](https://cloud.konghq.com/register)
-[Different Pricing tiers for Konnect](https://konghq.com/pricing)
+[Register for Konnect Link](https://cloud.konghq.com/register) \
+[Different Pricing tiers for Konnect Link](https://konghq.com/pricing)
 
 ## Watch the video instead
 

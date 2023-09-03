@@ -11,7 +11,7 @@
 ![Copy Organization ID](./images/konnect-org-id.png)
 
 3. Select `Copy Organization ID`
-4. 
+   
 ## Watch the video instead
 
 [![Get Konnect Organization ID](./images/konnect.png)](https://youtu.be/954jOuCe6kg "Get Konnect Organization ID")
