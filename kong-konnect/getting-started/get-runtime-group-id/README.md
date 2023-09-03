@@ -1,17 +1,17 @@
 # How to Register for Konnect
 
-[How to get the Konnect Org ID](#How-to-get-the-Konnect-Org-ID) \
+[How to get the Konnect Runtime Group ID](#How-to-get-the-Konnect-Runtime-Group-ID) \
 [Watch the video instead](#Watch-the-video-instead)
 
-## How to get the Konnect Org ID
+## How to get the Konnect Runtime Group ID
 
 1. Log in to Konnect: `https://cloud.konghq.com/login`
-2. In the top right-hand corner:
+2. Click on Runtime manager
+3. Select the runtime group
+4. Copy the Runtime Group ID
 
-![Copy Organization ID](./images/konnect-org-id.png)
+![Copy Runtime Group ID](./images/konnect-rtg-id.png)
 
-3. Select `Copy Organization ID`
-   
 ## Watch the video instead
 
-[![Get Konnect Organization ID](./images/konnect.png)](https://youtu.be/954jOuCe6kg "Get Konnect Organization ID")
+[![Get Konnect Organization ID](./images/konnect.png)](https://youtu.be "Get Konnect Runtime Group ID")
