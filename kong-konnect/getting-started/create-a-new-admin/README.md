@@ -16,6 +16,6 @@
    
 ![Activate Account](./images/activate.png)
 
-6. Activate the account by clicking on the linke
+6. Activate the account by clicking on the link
 
 ## Watch the video instead
