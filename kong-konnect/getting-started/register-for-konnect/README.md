@@ -10,4 +10,4 @@
 
 ## Watch the video instead
 
-[![Register for Konnect](./images/konnect.png)](https://youtu.be/i24N-6-EC88 "Register for Konnect")
+[Register for Konnect](./images/konnect.png)](https://youtu.be/i24N-6-EC88 "Register for Konnect")
