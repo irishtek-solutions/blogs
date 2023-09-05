@@ -12,4 +12,4 @@
 
 ## Watch the video instead
 
-[![Useful links and documentation](./images/docs.png)]( "Useful links and documentation")
+[![Useful resource links](./images/konnect.png)](https://youtu.be/ "Useful resource links")
