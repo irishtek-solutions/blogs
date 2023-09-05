@@ -12,4 +12,4 @@
 
 ## Watch the video instead
 
-[![Useful links and documentation](./images/konnect.png)]( "Useful links and documentation")
+[![Useful links and documentation](./images/docs.png)]( "Useful links and documentation")
