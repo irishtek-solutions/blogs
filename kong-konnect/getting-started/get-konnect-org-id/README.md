@@ -1,7 +1,12 @@
 # How to Register for Konnect
 
 [How to get the Konnect Org ID](#How-to-get-the-Konnect-Org-ID) \
-[Watch the video instead](#Watch-the-video-instead)
+[Watch video to get Organization ID](#Watch-video-to-get-Organization-ID)
+
+
+## Watch video to get Organization ID
+
+[![Get Konnect Organization ID](./images/konnect.png)](https://youtu.be/954jOuCe6kg "Get Konnect Organization ID")
 
 ## How to get the Konnect Org ID
 
@@ -11,7 +16,3 @@
 ![Copy Organization ID](./images/konnect-org-id.png)
 
 3. Select `Copy Organization ID`
-   
-## Watch the video instead
-
-[![Get Konnect Organization ID](./images/konnect.png)](https://youtu.be/954jOuCe6kg "Get Konnect Organization ID")
