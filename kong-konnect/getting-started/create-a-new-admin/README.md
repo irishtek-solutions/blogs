@@ -19,3 +19,5 @@
 6. Activate the account by clicking on the link
 
 ## Watch the video instead
+
+[![Create a new Admin](./images/activate.png)](https://youtu.be/ "Create a new Admin")
