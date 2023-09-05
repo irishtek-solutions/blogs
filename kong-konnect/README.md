@@ -3,11 +3,12 @@
 ## Getting started with Kong Konnect
 
 - [ ] Useful Resources
-- [ ] Overview of Konnect
+- [ ] Overview of Kong Konnect
 - [ ] Architecture
 - [ ] Control plane vs Data planes
 - [x] [Register for Kong Konnect + Pricing tiers](./getting-started/register-for-konnect/)
-- [ ] How to get your Organization ID
+- [x] [How to get your Organization ID](./getting-started/get-konnect-org-id)
+- [x] [Create new admins in Konnect](./getting-started/create-a-new-admin/)
 
 ## Runtime Groups and Runtime instances
 
@@ -18,49 +19,42 @@
 ## Install
 
 - [ ] Quick install (Docker)
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Install on VM (EC2)
+- [ ] Install on Kubernetes (EKS)
 
 ## Plugins
 
+This section gives a breakdown of plugins and how to configure them
 
 ### Authentication plugins
 
-- [ ] 
-- [ ] 
+- [ ] Key Authentication
+- [ ] Basic Authentication
 
 ### Security plugins
 
-- [ ] 
-- [ ] 
+- [ ] Rate Limiting
+- [ ] Rate limiting advanced
+- [ ] IP Restriction
 
 ### Traffic Control
 
-- [ ] 
-- [ ] 
-
-### Serverless
-
-- [ ] 
-- [ ] 
+- [ ] ACL
+- [ ] Canary
 
 ### Analytics & Monitoring
 
-- [ ] 
-- [ ] 
+- [ ] Prometheus
 
 ### Transformation
 
-- [ ] 
-- [ ] 
+- [ ] Correlation ID
+- [ ] Request Transformer
 
 ### Logging
 
-- [ ] 
-- [ ] 
+- [ ] File Log
+- [ ] HTTP log
 
 ## Analytics
 
