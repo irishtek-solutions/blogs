@@ -6,8 +6,7 @@
 - [ ] Overview of Konnect
 - [ ] Architecture
 - [ ] Control plane vs Data planes
-- [ ] Register for Kong Konnect
-- [ ] Pricing tiers
+- [ ] Register for Kong Konnect + Pricing tiers (./register-for-konnect/)
 - [ ] How to get your Organization ID
 
 ## Runtime Groups and Runtime instances
