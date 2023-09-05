@@ -1,7 +1,11 @@
 # How to create a new Admin in Konnect
 
-[How to create a new Admin in Konnect](#How-to-create-a-new-Admin-in-Konnect) \
-[Watch the video instead](#Watch-the-video-instead)
+[Watch the video to create a new Admin](#Watch-the-video-to-create-a-new-Admin) \
+[How to create a new Admin in Konnect](#How-to-create-a-new-Admin-in-Konnect)
+
+## Watch the video to create a new Admin
+
+[![Create a new Admin](./images/activate.png)](https://youtu.be/ "Create a new Admin")
 
 ## How to create a new Admin in Konnect
 
@@ -18,6 +22,3 @@
 
 6. Activate the account by clicking on the link
 
-## Watch the video instead
-
-[![Create a new Admin](./images/activate.png)](https://youtu.be/ "Create a new Admin")
