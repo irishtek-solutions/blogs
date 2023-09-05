@@ -1,6 +1,6 @@
 # Product Walkthrough
 
-[Product Walkthrough of Konnect](#Product-Walkthrough-of-Konnect) \
+[Product Walkthrough of Konnect](#Product-Walkthrough-of-Konnect)
 
 ## Architecture Overview of Konnect
 

@@ -1,6 +1,6 @@
 # Overview of Control Plane
 
-[Watch Overview of Konnect](#Watch-Overview-of-Konnect) \
+[Watch Overview of Konnect](#Watch-Overview-of-Konnect)
 
 ## Watch Overview of Konnect
 

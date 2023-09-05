@@ -1,6 +1,6 @@
 # Architecture Overview
 
-[Architecture Overview of Konnect](#Architecture-Overview-of-Konnect) \
+[Architecture Overview of Konnect](#Architecture-Overview-of-Konnect)
 
 ## Architecture Overview of Konnect
 
