@@ -1,5 +1,9 @@
 # Deploy your first service in KIC
 
+## Video Guide
+
+[![Adding new Service and route in KIC](./images/activate.png)](https://youtu.be/ "Adding new Service and route in KIC")
+
 ## Deploy your first Kong Ingress Resource
 
 **Pre-Requisites**
