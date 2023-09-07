@@ -2,7 +2,7 @@
 
 ## Install
 
-![Following this guide](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/#installing-the-chart-1) 
+[Following this guide](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/#installing-the-chart-1) 
 
 A. Installation:
 
