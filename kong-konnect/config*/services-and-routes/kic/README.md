@@ -31,3 +31,8 @@ ingress.networking.k8s.io/demo-echo-ingress   kong    *       35.238.199.221   8
 
 ![Services](images/services.png)
 
+5. The ingress will expose the echo service over `api`. If you go to the insomnia repo, you will see it available there.
+
+[Testing API](images/testing.png)
+
+Once you get a response, you should be good to go!
