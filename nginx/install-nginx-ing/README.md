@@ -58,7 +58,7 @@ install-nginx-ing $
 ```
 $ kubectl get ing -n services
 NAME                   CLASS   HOSTS             ADDRESS         PORTS   AGE
-ingress-echo-service   nginx   example.foo.com   35.222.96.140   80      8s
+ingress-echo-service   nginx   example.foo.com   132.x.x.x        80      8s
 ```
 
 6. In a rest client (like insomnia), send a request through. Make sure `host` header `example.foo.com` is present. 
