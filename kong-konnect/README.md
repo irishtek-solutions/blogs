@@ -22,6 +22,7 @@
 - [ ] Docker Compose Install
 - [ ] Install on VM (EC2)
 - [ ] Install on Kubernetes (EKS)
+- [ ] KIC install
 
 ## Plugins
 
