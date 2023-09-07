@@ -1,10 +1,13 @@
 # Install and Testing Nginx Controller
 
+[Install Nginx Ingress Controller](#Install) \
+[Deploy Services and Expose via Nginx Ingress Controller](#Deploy-Services-and-Expose-via-Nginx-Ingress-Controller)
+
 ## Install
 
 [Following this guide](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-helm/#installing-the-chart-1) 
 
-A. Installation:
+Installation of Nginx Ingress Controller with the following instructions:
 
 1. Clone `git clone https://github.com/nginxinc/kubernetes-ingress.git --branch v3.2.1` 
 2. Change to helm chart:   `cd kubernetes-ingress/deployments/helm-chart`
