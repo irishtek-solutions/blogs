@@ -1,7 +1,5 @@
 # How to Register for Konnect
 
-## Links to register and pricing
-
 Some useful links when it comes to Konnect: 
 
 Use this link to register for Konnect: [Register for Konnect Link](https://cloud.konghq.com/register) \
