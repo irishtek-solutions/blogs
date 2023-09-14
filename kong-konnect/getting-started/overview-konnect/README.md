@@ -1,4 +1,4 @@
-# Overview of Control Plane
+# Overview of Kong Konnect
 
 This video offers an introduction to the Konnect Control plane and what each component achieves. There are 4 major components:
 

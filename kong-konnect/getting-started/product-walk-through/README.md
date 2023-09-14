@@ -1,9 +1,20 @@
 # Product Walkthrough
 
-[Product Walkthrough of Konnect](#Product-Walkthrough-of-Konnect)
+In this video, we will log into the Control plane and Review the different components of the Control plane. This video will act as a walkthrough of how to navigate through the platform. We will look at how to navigate and walk through:
+
+- Runtime Manager/Gateway Manager
+- API Products
+- Developer Portal
+- Analytics
+- Mesh Manager
+- Service Hub
+- Organization sections
+- Account details
 
 ## Product Walkthrough of Konnect
 
-In this video we will walk through the different components of Konnect and how to Navigate the UI
+In this video, we will walk through the different components of Konnect and how to Navigate the UI
 
+<!---
 [![Product Walkthrough of Konnect](./images/konnect.png)](https://youtu.be/ "Product walkthrough Overview")
+-->
