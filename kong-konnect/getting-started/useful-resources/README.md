@@ -1,7 +1,6 @@
 # How to Register for Konnect
 
-[Useful resource links](#Useful-resource-links) \
-[Watch the video instead](#Watch-the-video-instead)
+To register for Konnect use this link: [Registration Link](https://cloud.konghq.com/register)
 
 ## Useful resource links
 
