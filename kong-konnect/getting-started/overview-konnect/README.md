@@ -1,7 +1,16 @@
 # Overview of Control Plane
 
-[Watch Overview of Konnect](#Watch-Overview-of-Konnect)
+This video offers an introduction to the Konnect Control plane and what each component achieves. There are 4 major components:
+
+- Runtime Manager/Gateway Manager
+- API Products
+- Developer Portal
+- Analytics
+- Mesh Manager
+- Service Hub
 
 ## Watch Overview of Konnect
 
-[![Useful resource links](./images/cp-overview.png)](https://youtu.be/ "Useful resource links")
+<!---
+[![Useful resource links](./images/docs.png)](https://youtu.be/ "Useful resource links")
+-->
