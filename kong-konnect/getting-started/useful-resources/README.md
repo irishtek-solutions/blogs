@@ -11,4 +11,9 @@ Kong's education labs offer a free way to set up Kong and learn how to use the p
 
 ## Watch the video instead
 
+<!---
 [![Useful resource links](./images/docs.png)](https://youtu.be/ "Useful resource links")
+-->
+
+
+
