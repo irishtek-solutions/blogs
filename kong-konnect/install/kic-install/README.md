@@ -1,4 +1,4 @@
-# Install Guide for KIC
+# Install Guide for Konnect KIC 
 
 ## Video on Installing KIC with Kong Konnect
 
