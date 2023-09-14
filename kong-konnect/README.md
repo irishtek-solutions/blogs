@@ -72,13 +72,13 @@ This section gives a breakdown of plugins and how to configure them.
 
 ## Analytics
 
-[ ] [Overview of Analytics](./analytics/overview-analytics/)
-[ ] [Create a report](./analytics/create-report/)
+- [ ] [Overview of Analytics](./analytics/overview-analytics/)
+- [ ] [Create a report](./analytics/create-report/)
 
 ## API Products
 
-[ ] [Overview of API Products](./api-products/api-products-overview/)
-[ ] [Creating an API product](./api-products/creating-api-product/)
+- [ ] [Overview of API Products](./api-products/api-products-overview/)
+- [ ] [Creating an API product](./api-products/creating-api-product/)
 
 ## Konnect Mesh
 
