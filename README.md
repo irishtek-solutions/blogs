@@ -6,17 +6,17 @@ This Github repo will act as a repository for my blogs, link to video content an
 
 ## Tech Tips
 
-[How to exec to a stopped or failed docker container](./tech-tips/exec-to-failed-docker-container/)
+[How to exec to a stopped or failed docker container](./tech-tips/exec-to-failed-docker-container/) \n
 [How to base64 encode and decode](./tech-tips/how-to-base64-encode-decode/)
 
 ## Nginx
 
-[Install and Test Nginx Controller](./nginx/install-nginx-ing/)
+[Install and Test Nginx Controller](./nginx/install-nginx-ing/) \n
 [Stripping a path Using Nginx Ingress Controller](./nginx/nginx-strip/)
 
 ## Portainer
 
-[Install Portainer Using Docker](./portainer/)
+[Install Portainer Using Docker](./portainer/) \n
 
 
 
