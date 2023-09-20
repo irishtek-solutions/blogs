@@ -4,10 +4,12 @@ This Github repo will act as a repository for my blogs, link to video content an
 
 # Some interesting topics broken down by different solutions or topics
 
-## Kong Konnect
+## Tech Tips
 
-## Kong Plugins
+## Nginx
 
-## General tech tips
+## Portainer
+
+
 
 
