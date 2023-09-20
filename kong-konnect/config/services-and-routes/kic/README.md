@@ -1,6 +1,6 @@
 # Deploy your first service in KIC
 
-## Video Guide
+## Video Guide on how to create a Service and route in KIC
 
 [![Adding new Service and route in KIC](./images/activate.png)](https://youtu.be/ "Adding new Service and route in KIC")
 
