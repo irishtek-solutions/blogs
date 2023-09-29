@@ -1,0 +1,14 @@
+apiVersion: configuration.konghq.com/v1
+kind: KongPlugin
+metadata:
+  name: rate-limiting
+  namespace: counter-demo
+  annotations:
+    kubernetes.io/ingress.class: kong
+config: 
+  minute: 5
+  hour: 100
+  policy: local
+  fault_tolerant: true
+  hide_client_headers: false
+plugin: rate-limiting

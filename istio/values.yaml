@@ -1,0 +1,30 @@
+controller:
+  ingressController:
+    image:
+      tag: "2.11"
+    env:
+      feature_gates: "FillIDs=true"
+    konnect:
+      license:
+        enabled: true
+      enabled: true
+      runtimeGroupID: "7cfd97ce-117e-49b2-bd9d-df10036cad0b"
+      tlsClientSecretName: konnect-client-tls
+      apiHostname: "us.kic.api.konghq.com"
+
+gateway:
+  image:
+    repository: kong/kong-gateway
+    tag: "3.4"
+  env:
+    konnect_mode: "on"
+    vitals: "off"
+    cluster_mtls: pki
+    cluster_telemetry_endpoint: "58d2e85268.us.tp0.konghq.com:443"
+    cluster_telemetry_server_name: "58d2e85268.us.tp0.konghq.com"
+    cluster_cert: /etc/secrets/konnect-client-tls/tls.crt
+    cluster_cert_key: /etc/secrets/konnect-client-tls/tls.key
+    lua_ssl_trusted_certificate: system
+
+  secretVolumes:
+    - konnect-client-tls
